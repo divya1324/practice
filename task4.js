@@ -34,3 +34,8 @@ switch (seasons) {
         seasons = "unknow";
 }
 console.log("Season is " + seasons);
+
+let coupon = "50"
+if (coupon == "offer10"){
+    // console.log"
+}
